@@ -1,0 +1,8 @@
+{
+	"parent": "minecraft:block/cube_bottom_top",
+	"textures": {
+		"top": "vanillaaddons:block/gunpowder_barrel_top",
+		"bottom": "vanillaaddons:block/gunpowder_barrel_bottom",
+		"side": "vanillaaddons:block/gunpowder_barrel_side"
+	}
+}
