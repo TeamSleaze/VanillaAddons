@@ -1,29 +1,29 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "vanillaaddons",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Vanilla Addons",
+  "description": "This mod aims to enhance minecraft with vanilla friendly features!",
   "authors": [
-    "Me!"
+    "SleazeStiKs"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://teamsleaze.github.io/projects/VanillaAddons",
+    "sources": "https://github.com/TeamSleaze/VanillaAddons"
   },
 
-  "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "license": "MIT",
+  "icon": "assets/vanillaaddons/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "net.teamsleaze.vanillaaddons.VanillaAddons"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "vanillaaddons.mixins.json"
   ],
 
   "depends": {
