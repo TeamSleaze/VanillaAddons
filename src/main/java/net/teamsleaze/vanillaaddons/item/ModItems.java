@@ -12,6 +12,6 @@ public class ModItems {
     }
 
     public static void registerModItems() {
-        VanillaAddons.LOGGER.info("Registering Mod Items for " + VanillaAddons.MOD_ID[0]);
+        VanillaAddons.LOGGER.info(VanillaAddons.MOD_ID[1] + " Registering Mod Items");
     }
 }

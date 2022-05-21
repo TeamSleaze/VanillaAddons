@@ -16,6 +16,6 @@ public class ModPotions {
 
 
     public static void registerModPotions() {
-        VanillaAddons.LOGGER.info("Registering Potions for " + VanillaAddons.MOD_ID[0]);
+        VanillaAddons.LOGGER.info(VanillaAddons.MOD_ID[1] + " Registering Mod Potions");
     }
 }
