@@ -10,7 +10,7 @@ import org.slf4j.LoggerFactory;
 public class VanillaAddons implements ModInitializer {
 	public static final Logger LOGGER = LoggerFactory.getLogger("vanillaaddons");
 
-	public static final String[] MOD_ID = { "vanillaaddons", "VanillaAddons" };
+	public static final String[] MOD_ID = {"vanillaaddons", "VanillaAddons"};
 
 
 	@Override
