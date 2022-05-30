@@ -2,6 +2,7 @@ package net.teamsleaze.vanillaaddons.block;
 
 import net.minecraft.block.*;
 import net.minecraft.entity.Entity;
+import net.minecraft.entity.damage.DamageSource;
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.entity.projectile.ProjectileEntity;
 import net.minecraft.item.Item;
@@ -14,6 +15,7 @@ import net.minecraft.util.hit.BlockHitResult;
 import net.minecraft.util.math.BlockPos;
 import net.minecraft.world.World;
 import net.minecraft.world.explosion.Explosion;
+import net.minecraft.world.explosion.ExplosionBehavior;
 
 public class GunpowderBarrel extends Block {
 
@@ -89,8 +91,14 @@ public class GunpowderBarrel extends Block {
         }
     }
 
-    private static void explode(World world, BlockPos pos) {
+    private static Explosion explode(World world, BlockPos pos) {
         float power = 8.0f;
-        world.createExplosion(null, pos.getX(), pos.getY(), pos.getZ(), power, Explosion.DestructionType.BREAK);
+        Explosion explosion = world.createExplosion(null, DamageSource.MAGIC, null, pos.getX(), pos.getY(), pos.getZ(), power, false, Explosion.DestructionType.BREAK);
+        return explosion;
+    }
+
+    @Override
+    public boolean shouldDropItemsOnExplosion(Explosion explosion) {
+        return false;
     }
 }
