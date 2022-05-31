@@ -15,8 +15,8 @@ public class ModItems {
     );
 
     public static final Item ROSE_GOLD_SHIELD = Registry.register(Registry.ITEM, new Identifier(VanillaAddons.MOD_ID[0], "rose_gold_shield"),
-            new FabricShieldItem(new FabricItemSettings().maxDamage(2500).group(ItemGroup.COMBAT), 10, 13, ModItems.ROSE_GOLD_INGOT)
-    ); // FabricShieldItem(settings.maxDamage(durability), cooldownTicks, enchantability, repairItem)
+            new FabricShieldItem(new FabricItemSettings().maxDamage(2500).group(ItemGroup.COMBAT), 70, 13, ModItems.ROSE_GOLD_INGOT)
+    ); // FabricShieldItem(FabricItemSettings.maxDamage(Durability), CoolDownTicks, Enchantability, RepairItem)
 
 
     public static void registerModItems() {
