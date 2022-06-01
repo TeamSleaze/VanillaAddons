@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "AAA",
+    " A "
+  ],
+  "key": {
+    "A": {
+      "item": "vanillaaddons:rose_gold_ingot"
+    },
+    "B": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "result": {
+    "item": "vanillaaddons:rose_gold_shield",
+    "count": 1
+  }
+}

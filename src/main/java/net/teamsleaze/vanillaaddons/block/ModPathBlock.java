@@ -33,5 +33,15 @@ public class ModPathBlock extends DirtPathBlock {
         world.setBlockState(pos, pushEntitiesUpBeforeBlockChange(state, transformationBlockState, world, pos));
     }
 
-
+    /*
+    PATH_STATES = Maps.newHashMap((new ImmutableMap.Builder())
+            .put(Blocks.GRASS_BLOCK, Blocks.DIRT_PATH.getDefaultState())
+            .put(Blocks.DIRT, Blocks.DIRT_PATH.getDefaultState())
+            .put(Blocks.PODZOL, Blocks.DIRT_PATH.getDefaultState())
+            .put(Blocks.COARSE_DIRT, Blocks.DIRT_PATH.getDefaultState())
+            .put(Blocks.MYCELIUM, Blocks.DIRT_PATH.getDefaultState())
+            .put(Blocks.ROOTED_DIRT, Blocks.DIRT_PATH.getDefaultState())
+            .build()
+    );
+    */
 }

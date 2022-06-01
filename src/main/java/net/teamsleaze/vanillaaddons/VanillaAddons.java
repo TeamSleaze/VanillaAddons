@@ -21,4 +21,5 @@ public class VanillaAddons implements ModInitializer {
 		ModBlocks.registerModBlocks();
 		ModPotions.registerModPotions();
 	}
+
 }
