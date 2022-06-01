@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "vanillaaddons:block/sand_path"
+      },
+      {
+        "model": "vanillaaddons:block/sand_path",
+        "y": 90
+      },
+      {
+        "model": "vanillaaddons:block/sand_path",
+        "y": 180
+      },
+      {
+        "model": "vanillaaddons:block/sand_path",
+        "y": 270
+      }
+    ]
+  }
+}

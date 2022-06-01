@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "vanillaaddons:block/gravel_path"
+      },
+      {
+        "model": "vanillaaddons:block/gravel_path",
+        "y": 90
+      },
+      {
+        "model": "vanillaaddons:block/gravel_path",
+        "y": 180
+      },
+      {
+        "model": "vanillaaddons:block/gravel_path",
+        "y": 270
+      }
+    ]
+  }
+}
