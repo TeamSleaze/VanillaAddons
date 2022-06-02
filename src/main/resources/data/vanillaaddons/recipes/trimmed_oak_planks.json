@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "A",
+    "A"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:oak_slab"
+    }
+  },
+  "result": {
+    "item": "vanillaaddons:trimmed_oak_planks",
+    "count": 1
+  }
+}

@@ -5,10 +5,20 @@
   "item.minecraft.potion.effect.glowing_potion": "Potion of Glowing",
   "item.minecraft.splash_potion.effect.glowing_potion": "Splash Potion of Glowing",
   "item.minecraft.lingering_potion.effect.glowing_potion": "Lingering Potion of Glowing",
+  "item.minecraft.tipped_arrow.effect.levitation_potion": "Arrow of Levitation",
+  "item.minecraft.tipped_arrow.effect.glowing_potion": "Arrow of Glowing",
   "block.vanillaaddons.gunpowder_barrel": "Gunpowder Barrel",
   "item.vanillaaddons.rose_gold_ingot": "Rose Gold Ingot",
   "item.vanillaaddons.rose_gold_shield": "Rose Gold Shield",
   "block.vanillaaddons.gravel_path": "Gravel Path",
   "block.vanillaaddons.sand_path": "Sand Path",
-  "block.vanillaaddons.red_sand_path": "Red Sand Path"
+  "block.vanillaaddons.red_sand_path": "Red Sand Path",
+  "block.vanillaaddons.trimmed_oak_planks": "Trimmed Oak Planks",
+  "block.vanillaaddons.trimmed_spruce_planks": "Trimmed Spruce Planks",
+  "block.vanillaaddons.trimmed_birch_planks": "Trimmed Birch Planks",
+  "block.vanillaaddons.trimmed_jungle_planks": "Trimmed Jungle Planks",
+  "block.vanillaaddons.trimmed_acacia_planks": "Trimmed Acacia Planks",
+  "block.vanillaaddons.trimmed_dark_oak_planks": "Trimmed Dark Oak Planks",
+  "block.vanillaaddons.trimmed_crimson_planks": "Trimmed Crimson Planks",
+  "block.vanillaaddons.trimmed_warped_planks": "Trimmed Warped Planks"
 }

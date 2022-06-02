@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:block/orientable_with_bottom",
+  "textures": {
+    "top": "vanillaaddons:block/trimmed_warped_planks_end",
+    "bottom": "vanillaaddons:block/trimmed_warped_planks_end",
+    "side": "vanillaaddons:block/trimmed_warped_planks_side",
+    "front": "vanillaaddons:block/trimmed_warped_planks_side",
+    "particle": "vanillaaddons:block/trimmed_warped_planks_side"
+  }
+}
