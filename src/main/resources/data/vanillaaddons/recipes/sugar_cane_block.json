@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:sugar_cane"
+    }
+  },
+  "result": {
+    "item": "vanillaaddons:sugar_cane_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:nether_wart"
+    }
+  },
+  "result": {
+    "item": "vanillaaddons:nether_wart_block",
+    "count": 1
+  }
+}
