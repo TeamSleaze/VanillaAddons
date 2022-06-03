@@ -20,5 +20,17 @@
   "block.vanillaaddons.trimmed_acacia_planks": "Trimmed Acacia Planks",
   "block.vanillaaddons.trimmed_dark_oak_planks": "Trimmed Dark Oak Planks",
   "block.vanillaaddons.trimmed_crimson_planks": "Trimmed Crimson Planks",
-  "block.vanillaaddons.trimmed_warped_planks": "Trimmed Warped Planks"
+  "block.vanillaaddons.trimmed_warped_planks": "Trimmed Warped Planks",
+  "block.vanillaaddons.stick_block": "Stick Block",
+  "block.vanillaaddons.sugar_cane_block": "Sugar Cane Block",
+  "block.vanillaaddons.chorus_fruit_block": "Chorus Fruit Block",
+  "block.vanillaaddons.bamboo_block": "Bamboo Block",
+  "block.vanillaaddons.nether_wart_block": "Nether Wart Block",
+  "block.vanillaaddons.cocoa_bean_block": "Cocoa Bean Block",
+  "block.vanillaaddons.beetroot_block": "Beetroot Block",
+  "block.vanillaaddons.potato_block": "Potato Block",
+  "block.vanillaaddons.carrot_block": "Carrot Block",
+  "block.vanillaaddons.apple_block": "Apple Block",
+  "block.vanillaaddons.golden_apple_block": "Golden Apple Block",
+  "block.vanillaaddons.cactus_block": "Cactus Block"
 }

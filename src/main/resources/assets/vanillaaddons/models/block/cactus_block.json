@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "vanillaaddons:block/cactus_block_top",
+    "side": "vanillaaddons:block/cactus_block_side"
+  }
+}

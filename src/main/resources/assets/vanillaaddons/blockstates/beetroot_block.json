@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "vanillaaddons:block/beetroot_block"
+    }
+  }
+}

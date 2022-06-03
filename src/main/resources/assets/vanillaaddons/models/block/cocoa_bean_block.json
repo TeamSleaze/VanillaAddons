@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "vanillaaddons:block/cocoa_bean_block_top",
+    "side": "vanillaaddons:block/cocoa_bean_block_side"
+  }
+}

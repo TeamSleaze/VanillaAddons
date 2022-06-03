@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "vanillaaddons:block/golden_apple_block_top",
+    "side": "vanillaaddons:block/golden_apple_block_side"
+  }
+}

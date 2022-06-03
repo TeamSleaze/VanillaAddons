@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "vanillaaddons:block/nether_wart_block_top",
+    "side": "vanillaaddons:block/nether_wart_block_side"
+  }
+}

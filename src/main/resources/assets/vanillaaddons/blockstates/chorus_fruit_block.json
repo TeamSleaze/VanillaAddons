@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "vanillaaddons:block/chorus_fruit_block"
+    }
+  }
+}

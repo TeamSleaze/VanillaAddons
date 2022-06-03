@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "vanillaaddons:block/carrot_block"
+    }
+  }
+}

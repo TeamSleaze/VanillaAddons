@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "vanillaaddons:block/carrot_block_top",
+    "side": "vanillaaddons:block/carrot_block_side"
+  }
+}

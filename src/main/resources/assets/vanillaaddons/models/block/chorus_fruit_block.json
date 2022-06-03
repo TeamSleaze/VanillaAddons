@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "vanillaaddons:block/chorus_fruit_block_top",
+    "side": "vanillaaddons:block/chorus_fruit_block_side"
+  }
+}
