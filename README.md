@@ -1,4 +1,4 @@
-<img src="src/main/resources/assets/vanillaaddons/icon.png" width="128">
+<img src="src/main/resources/assets/vanillaaddons/VanillaAddons_RepositoryLogo.png" alt="VanillAddons Logo">
 
 # VanillaAddons (for Fabric)
 
