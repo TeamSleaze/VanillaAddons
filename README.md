@@ -80,7 +80,7 @@ You can help support members of the core team by making a pledge to our KoFi and
 
 ### License
 
-VanillaAddons is licensed under CC0. For more information, please see the
+VanillaAddons is licensed under CC0-1.0. For more information, please see the
 [license file](LICENSE.txt).
 
 
