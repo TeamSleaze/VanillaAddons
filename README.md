@@ -3,9 +3,9 @@
 # VanillaAddons (for Fabric)
 
 <div>
-  <img src="https://img.shields.io/github/license/TeamSleaze/VanillaAddons.svg?style=flat-square" alt="GitHub license" data-align="inline">
-  <img src="https://img.shields.io/github/issues/TeamSleaze/VanillaAddons.svg?style=flat-square" alt="GitHub issues" data-align="inline">
-  <img src="https://img.shields.io/github/v/tag/TeamSleaze/VanillaAddons.svg?style=flat-square" alt="GitHub tag" data-align="inline">
+  <a href="https://github.com/TeamSleaze/VanillaAddons/blob/development/LICENSE"><img src="https://img.shields.io/github/license/TeamSleaze/VanillaAddons.svg?style=flat-square" alt="GitHub license" data-align="inline"></a>
+  <a href="https://github.com/TeamSleaze/VanillaAddons/issues"><img src="https://img.shields.io/github/issues/TeamSleaze/VanillaAddons.svg?style=flat-square" alt="GitHub issues" data-align="inline"></a>
+  <a href="https://github.com/TeamSleaze/VanillaAddons/tags"><img src="https://img.shields.io/github/v/tag/TeamSleaze/VanillaAddons.svg?style=flat-square" alt="GitHub tag" data-align="inline"></a>  
 </div>
 
 ### About
@@ -31,7 +31,7 @@ before, you can find a variety of community guides for doing so [here](https://f
 
 #### Stable releases
 
-<img src="https://img.shields.io/github/v/release/TeamSleaze/VanillaAddons.svg?style=flat-square" alt="Github release" data-align="inline">
+<a href="https://github.com/TeamSleaze/VanillaAddons/releases"><img src="https://img.shields.io/github/v/release/TeamSleaze/VanillaAddons.svg?style=flat-square" alt="Github release" data-align="inline"></a>
 
 The latest releases of VanillaAddons are published to our
 [GitHub release](https://github.com/TeamSleaze/VanillaAddons/releases) page. Releases are considered by our team to be
