@@ -73,7 +73,7 @@ You can help support members of the core team by making a pledge to our KoFi and
 
 |                                                                                | Author      | Role                           | Links                                                                                                                             |
 | ------------------------------------------------------------------------------ | ----------- | ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/TeamSleaze/.github-private/blob/228a415cb274660fc7636ebdb09248aceff81d8b/profile/docs/profile-pics/SleazeStiKs.png" width="48"/> | SleazeStiKs | Project Lead, Main Development | [KoFi](https://kofi.com/sleaze) / [Contributions](https://github.com/TeamSleaze/VanillaAddons/commits?author=sleazestiks)         |
+| <img src="https://github.com/TeamSleaze/.github-private/blob/228a415cb274660fc7636ebdb09248aceff81d8b/profile/docs/profile-pics/SleazeStiKs.png" width="48"/> | SleazeStiKs | Project Lead, Main Development | [KoFi](https://ko-fi.com/sleaze) / [Contributions](https://github.com/TeamSleaze/VanillaAddons/commits?author=sleazestiks)         |
 | <img src="https://github.com/TeamSleaze/.github-private/blob/228a415cb274660fc7636ebdb09248aceff81d8b/profile/docs/profile-pics/RobaCZ.png" width="48"/>   | RobaCZ      | Development                    | [Patreon](https://www.patreon.com/m/robadev) / [Contributions](https://github.com/TeamSleaze/VanillaAddons/commits?author=robacz) |
 
 ---
