@@ -50,7 +50,7 @@ incomplete features, bugs, crashes, and all other kinds of weird issues. You **s
 ### CurseForge
 
 If you are using the CurseForge client, you can continue to find downloads through our
-[CurseForge page](https://www.curseforge.com/minecraft/mc-mods/vanillaaddons). Unless you are using the CurseForge
+[CurseForge page](https://www.curseforge.com/minecraft/mc-mods/teamsleazes-addons). Unless you are using the CurseForge
 client, you should prefer the downloads linked on our GitHub release page above.
 
 ### Configuration
